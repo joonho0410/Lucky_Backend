@@ -1,0 +1,45 @@
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+/target/
+/build/
+
+# Gradle
+.gradle/
+/build/
+
+# Maven
+/target/
+
+# Log files
+*.log
+
+# OS 파일들
+.DS_Store
+Thumbs.db
+
+# 환경 변수 파일
+.env
+
+# Docker 관련
+docker-compose.override.yml
+
+# 기타
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA의 런/디버그 폴더
+/.run/
+
+# Spring Boot
+spring.log
+
+# VSCode
+.vscode/
+
+# Mac OS 시스템 파일
+.AppleDouble
+.LSOverride
